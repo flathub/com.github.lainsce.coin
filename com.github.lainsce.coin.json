@@ -91,8 +91,8 @@
             "sources": [
                 {
                   "type": "archive",
-                  "url": "https://github.com/lainsce/coin/archive/1.2.1.tar.gz",
-                  "sha256": "fb0640209911d97f60dc4c5fb26f6454df4ebc2a0a6ea4df9eae1a80a1e91fe8"
+                  "url": "https://github.com/lainsce/coin/archive/1.2.2.tar.gz",
+                  "sha256": "7b3896711424f335b2f84cdcbc67c487cb0c1e0f78d5f1696c02dd8e76a63172"
                 },
                 {
                     "type": "patch",
