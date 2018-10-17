@@ -1,9 +1,10 @@
 {
     "app-id": "com.github.lainsce.coin",
-    "base": "io.elementary.Loki.BaseApp",
+    "base": "io.elementary.BaseApp",
+    "base-version": "juno",
     "runtime": "org.freedesktop.Platform",
     "sdk": "org.freedesktop.Sdk",
-    "runtime-version": "1.6",
+    "runtime-version": "18.08",
     "command": "com.github.lainsce.coin",
     "finish-args": [
         "--share=ipc",
@@ -22,8 +23,8 @@
             "sources": [
                 {
                   "type": "archive",
-                  "url": "https://github.com/lainsce/coin/archive/1.2.2.tar.gz",
-                  "sha256": "7b3896711424f335b2f84cdcbc67c487cb0c1e0f78d5f1696c02dd8e76a63172"
+                  "url": "https://github.com/lainsce/coin/archive/1.2.5.tar.gz",
+                  "sha256": "b552e03eeef6245b76edb320c4182e855453170eb0d4041ec95b8feaee66592d"
                 },
                 {
                     "type": "patch",
